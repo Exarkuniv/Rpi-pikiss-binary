@@ -1,4 +1,4 @@
-# Rpi-pikiss-binary-
+# Rpi-pikiss-binary
 Holding place for binary files from Pikiss to use on RetroPie
 
 i was given the ok to use the binarys with my install scripts from Jose Cerrejon who is the one who run PiKiss.
